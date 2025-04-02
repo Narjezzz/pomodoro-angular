@@ -11,3 +11,4 @@
 # Commit at develop branch
 
 *new feature*
+*fix feature*
